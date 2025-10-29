@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "hacker-city-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f98d900e-696f-4271-b803-f2b146260775",
+      "database_name": "hacker_city_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
